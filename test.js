@@ -1,5 +1,3 @@
 var x = {
-	foo() {
-		return 'bar'
-	}
+	foo: () => 'bar'
 }
