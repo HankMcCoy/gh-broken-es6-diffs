@@ -1,3 +1,7 @@
 var x = {
-	foo: () => 'bar'
+	foo: () => {
+		return (
+			<div>bar</div>
+		)
+	}
 }
