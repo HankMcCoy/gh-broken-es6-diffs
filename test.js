@@ -1,7 +1,7 @@
 var x = {
 	foo: () => {
 		return (
-			<div>bar</div>
+			<div>bar's are cool</div>
 		)
 	}
 }
